@@ -1,0 +1,7 @@
+
+## Install
+
+```sh
+$ make install
+
+```
