@@ -52,7 +52,7 @@ spec:
         - name: CAMERA_ID
           value: 79da5c31-5b78-44f7-9c0d-2e858cd598f3
         - name: MOTION_URL
-          value: "rtsp://admin:Speco123001!@decaro.streamnvr.com:11200"
+          value: ""
         - name: GOOGLE_APPLICATION_CREDENTIALS
           value: /var/secrets/google/key.json
       volumes:
